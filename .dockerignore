@@ -1,0 +1,12 @@
+.git
+.venv
+.tmp
+.runlogs
+frontend/node_modules
+frontend/dist
+frontend/.npm-cache
+backend/__pycache__
+backend/**/*.pyc
+**/__pycache__
+**/*.pyc
+*.log
